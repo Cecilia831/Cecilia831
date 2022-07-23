@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Cecilia831
 - 👀 I’m interested in wireless networks, research...
-- 🌱 I’m currently finding full time jobes
+- 🌱 I’m currently finding full time jobs
 - 💞️ I’m looking to collaborate on IoT, ML, pytorch...
 - 📫 How to reach me xiyu8831@gmail.com
 
