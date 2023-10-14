@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Xi Yu</h1>
-<h3 align="center">A passionate Computer Science learner.</h3>
+<h3 align="center">A Computer Scientist.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cecilia831&label=Profile%20views&color=0e75b6&style=flat" alt="cecilia831" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **to be a product manager**
 
-- 👯 I’m looking to collaborate on **Research work of IoT, networks, health**
+- 👯 I’m looking to collaborate on **Research work of IoT, networks, mobile health**
 
 - 🤝 I’m looking for help with **how to do test**
 
